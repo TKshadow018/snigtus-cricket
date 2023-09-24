@@ -1,0 +1,562 @@
+/* Background Colors */
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.bg-purple {
+    background-color: purple;
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+.bg-cyan {
+    background-color: cyan;
+}
+
+.bg-magenta {
+    background-color: magenta;
+}
+
+.bg-lavender {
+    background-color: lavender;
+}
+
+.bg-lime {
+    background-color: lime;
+}
+
+.bg-teal {
+    background-color: teal;
+}
+
+.bg-brown {
+    background-color: brown;
+}
+
+.bg-gray {
+    background-color: gray;
+}
+
+.bg-silver {
+    background-color: silver;
+}
+
+.bg-gold {
+    background-color: gold;
+}
+
+.bg-violet {
+    background-color: violet;
+}
+
+.bg-indigo {
+    background-color: indigo;
+}
+
+.bg-olive {
+    background-color: olive;
+}
+
+.bg-maroon {
+    background-color: maroon;
+}
+
+.bg-navy {
+    background-color: navy;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+/* Dark Background Colors */
+.bg-dark-red {
+    background-color: darkred;
+}
+
+.bg-dark-blue {
+    background-color: darkblue;
+}
+
+.bg-dark-green {
+    background-color: darkgreen;
+}
+
+.bg-dark-yellow {
+    background-color: #c0c000;
+}
+
+.bg-dark-orange {
+    background-color: darkorange;
+}
+
+.bg-dark-purple {
+    background-color: #800080;
+}
+
+.bg-dark-pink {
+    background-color: #FF1493;
+}
+
+.bg-dark-cyan {
+    background-color: darkcyan;
+}
+
+.bg-dark-magenta {
+    background-color: darkmagenta;
+}
+
+.bg-dark-lavender {
+    background-color: #9966CC;
+}
+
+.bg-dark-lime {
+    background-color: #32CD32;
+}
+
+.bg-dark-teal {
+    background-color: #008080;
+}
+
+.bg-dark-brown {
+    background-color: #8B4513;
+}
+
+.bg-dark-silver {
+    background-color: #A9A9A9;
+}
+
+.bg-dark-gray {
+    background-color: darkgray;
+}
+
+.bg-dark-gold {
+    background-color: darkgoldenrod;
+}
+
+.bg-dark-violet {
+    background-color: darkviolet;
+}
+
+.bg-dark-olive {
+    background-color: darkolivegreen;
+}
+
+.bg-dark-indigo {
+    background-color: #4B0082;
+}
+
+.bg-dark-maroon {
+    background-color: #800000;
+}
+
+.bg-dark-navy {
+    background-color: #00008B;
+}
+
+.bg-dark-black {
+    background-color: #333;
+}
+
+/* Light Background Colors */
+.bg-light-red {
+    background-color: lightcoral;
+}
+
+.bg-light-blue {
+    background-color: lightblue;
+}
+
+.bg-light-green {
+    background-color: lightgreen;
+}
+
+.bg-light-yellow {
+    background-color: lightyellow;
+}
+
+.bg-light-orange {
+    background-color: lightcoral;
+}
+
+.bg-light-purple {
+    background-color: mediumpurple;
+}
+
+.bg-light-pink {
+    background-color: lightpink;
+}
+
+.bg-light-cyan {
+    background-color: lightcyan;
+}
+
+.bg-light-magenta {
+    background-color: lightpink;
+}
+
+.bg-light-lavender {
+    background-color: lavenderblush;
+}
+
+.bg-light-lime {
+    background-color: limegreen;
+}
+
+.bg-light-teal {
+    background-color: paleturquoise;
+}
+
+.bg-light-brown {
+    background-color: burlywood;
+}
+
+.bg-light-gray {
+    background-color: lightgray;
+}
+
+.bg-light-silver {
+    background-color: #D3D3D3;
+}
+
+.bg-light-gold {
+    background-color: lightgoldenrodyellow;
+}
+
+.bg-light-violet {
+    background-color: violet;
+}
+
+.bg-light-indigo {
+    background-color: mediumslateblue;
+}
+
+.bg-light-olive {
+    background-color: olivedrab;
+}
+
+.bg-light-maroon {
+    background-color: maroon;
+}
+
+.bg-light-navy {
+    background-color: navy;
+}
+
+/* ----------------------------------------------------------------------------- */
+
+/* Text Colors */
+.text-red {
+    color: red;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.text-green {
+    color: green;
+}
+
+.text-yellow {
+    color: yellow;
+}
+
+.text-orange {
+    color: orange;
+}
+
+.text-purple {
+    color: purple;
+}
+
+.text-pink {
+    color: pink;
+}
+
+.text-cyan {
+    color: cyan;
+}
+
+.text-magenta {
+    color: magenta;
+}
+
+.text-lavender {
+    color: lavender;
+}
+
+.text-lime {
+    color: lime;
+}
+
+.text-teal {
+    color: teal;
+}
+
+.text-brown {
+    color: brown;
+}
+
+.text-gray {
+    color: gray;
+}
+
+.text-silver {
+    color: silver;
+}
+
+.text-gold {
+    color: gold;
+}
+
+.text-violet {
+    color: violet;
+}
+
+.text-indigo {
+    color: indigo;
+}
+
+.text-olive {
+    color: olive;
+}
+
+.text-maroon {
+    color: maroon;
+}
+
+.text-navy {
+    color: navy;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-white {
+    color: white;
+}
+
+/* Dark Text Colors */
+.text-dark-red {
+    color: darkred;
+}
+
+.text-dark-blue {
+    color: darkblue;
+}
+
+.text-dark-green {
+    color: darkgreen;
+}
+
+.text-dark-yellow {
+    color: #c0c000;
+}
+
+.text-dark-orange {
+    color: darkorange;
+}
+
+.text-darkpurple {
+    color: #800080;
+}
+
+.text-darkpink {
+    color: #FF1493;
+}
+
+.text-dark-cyan {
+    color: darkcyan;
+}
+
+.text-dark-magenta {
+    color: darkmagenta;
+}
+
+.text-darklavender {
+    color: #9966CC;
+}
+
+.text-darklime {
+    color: #32CD32;
+}
+
+.text-darkteal {
+    color: #008080;
+}
+
+.text-darkbrown {
+    color: #8B4513;
+}
+
+.text-dark-gray {
+    color: darkgray;
+}
+
+
+
+.text-darksilver {
+    color: #A9A9A9;
+}
+
+.text-dark-gold {
+    color: darkgoldenrod;
+}
+
+.text-dark-violet {
+    color: darkviolet;
+}
+
+.text-darkindigo {
+    color: #4B0082;
+}
+
+.text-dark-olive {
+    color: darkolivegreen;
+}
+
+
+.text-darkmaroon {
+    color: #800000;
+}
+
+.text-darknavy {
+    color: #00008B;
+}
+
+.text-dark-black {
+    color: #333;
+}
+
+/* Light Text Colors */
+.text-light-red {
+    color: lightcoral;
+}
+
+.text-light-blue {
+    color: lightblue;
+}
+
+.text-light-green {
+    color: lightgreen;
+}
+
+.text-light-yellow {
+    color: lightyellow;
+}
+
+.text-light-orange {
+    color: lightcoral;
+}
+
+.text-light-purple {
+    color: mediumpurple;
+}
+
+.text-light-pink {
+    color: lightpink;
+}
+
+.text-light-cyan {
+    color: lightcyan;
+}
+
+.text-light-magenta {
+    color: lightpink;
+}
+
+.text-light-lavender {
+    color: lavenderblush;
+}
+
+.text-light-lime {
+    color: limegreen;
+}
+
+.text-light-teal {
+    color: paleturquoise;
+}
+
+.text-light-brown {
+    color: burlywood;
+}
+
+.text-light-gray {
+    color: lightgray;
+}
+
+.text-lightsilver {
+    color: #D3D3D3;
+}
+
+.text-light-gold {
+    color: lightgoldenrodyellow;
+}
+
+.text-light-violet {
+    color: violet;
+}
+
+.text-light-indigo {
+    color: mediumslateblue;
+}
+
+.text-light-olive {
+    color: olivedrab;
+}
+
+.text-light-maroon {
+    color: maroon;
+}
+
+.text-light-navy {
+    color: navy;
+}
+
+/* ----------------------------------------------------------------------------- */
+
+.btn-outline-darkteal.focus,
+.btn-outline-darkteal:focus {
+    box-shadow: 0 0 0 0.2rem #008080;
+}
+
+.btn-outline-darkteal:hover {
+    color: #fff;
+    background-color: #008080;
+    border-color: #008080;
+}
+
+.btn-outline-darkteal {
+    color: #008080;
+    border-color: #008080;
+}
+
+.btn-darkteal {
+    color: #fff;
+    border-color: #008080;
+    background-color: #008080;
+}
