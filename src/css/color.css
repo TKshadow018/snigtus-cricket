@@ -1,0 +1,562 @@
+/* Background Colors */
+.bg-red {
+    background-color: red !important;
+}
+
+.bg-blue {
+    background-color: blue !important;
+}
+
+.bg-green {
+    background-color: green !important;
+}
+
+.bg-yellow {
+    background-color: yellow !important;
+}
+
+.bg-orange {
+    background-color: orange !important;
+}
+
+.bg-purple {
+    background-color: purple !important;
+}
+
+.bg-pink {
+    background-color: pink !important;
+}
+
+.bg-cyan {
+    background-color: cyan !important;
+}
+
+.bg-magenta {
+    background-color: magenta !important;
+}
+
+.bg-lavender {
+    background-color: lavender !important;
+}
+
+.bg-lime {
+    background-color: lime !important;
+}
+
+.bg-teal {
+    background-color: teal !important;
+}
+
+.bg-brown {
+    background-color: brown !important;
+}
+
+.bg-gray {
+    background-color: gray !important;
+}
+
+.bg-silver {
+    background-color: silver !important;
+}
+
+.bg-gold {
+    background-color: gold !important;
+}
+
+.bg-violet {
+    background-color: violet !important;
+}
+
+.bg-indigo {
+    background-color: indigo !important;
+}
+
+.bg-olive {
+    background-color: olive !important;
+}
+
+.bg-maroon {
+    background-color: maroon !important;
+}
+
+.bg-navy {
+    background-color: navy !important;
+}
+
+.bg-black {
+    background-color: black !important;
+}
+
+.bg-white {
+    background-color: white !important;
+}
+
+/* Dark Background Colors */
+.bg-dark-red {
+    background-color: darkred !important;
+}
+
+.bg-dark-blue {
+    background-color: darkblue !important;
+}
+
+.bg-dark-green {
+    background-color: darkgreen !important;
+}
+
+.bg-dark-yellow {
+    background-color: #c0c000 !important;
+}
+
+.bg-dark-orange {
+    background-color: darkorange !important;
+}
+
+.bg-dark-purple {
+    background-color: #800080 !important;
+}
+
+.bg-dark-pink {
+    background-color: #FF1493 !important;
+}
+
+.bg-dark-cyan {
+    background-color: darkcyan !important;
+}
+
+.bg-dark-magenta {
+    background-color: darkmagenta !important;
+}
+
+.bg-dark-lavender {
+    background-color: #9966CC !important;
+}
+
+.bg-dark-lime {
+    background-color: #32CD32 !important;
+}
+
+.bg-dark-teal {
+    background-color: #008080 !important;
+}
+
+.bg-dark-brown {
+    background-color: #8B4513 !important;
+}
+
+.bg-dark-silver {
+    background-color: #A9A9A9 !important;
+}
+
+.bg-dark-gray {
+    background-color: darkgray !important;
+}
+
+.bg-dark-gold {
+    background-color: darkgoldenrod !important;
+}
+
+.bg-dark-violet {
+    background-color: darkviolet !important;
+}
+
+.bg-dark-olive {
+    background-color: darkolivegreen !important;
+}
+
+.bg-dark-indigo {
+    background-color: #4B0082 !important;
+}
+
+.bg-dark-maroon {
+    background-color: #800000 !important;
+}
+
+.bg-dark-navy {
+    background-color: #00008B !important;
+}
+
+.bg-dark-black {
+    background-color: #333 !important;
+}
+
+/* Light Background Colors */
+.bg-light-red {
+    background-color: lightcoral !important;
+}
+
+.bg-light-blue {
+    background-color: lightblue !important;
+}
+
+.bg-light-green {
+    background-color: lightgreen !important;
+}
+
+.bg-light-yellow {
+    background-color: lightyellow !important;
+}
+
+.bg-light-orange {
+    background-color: lightcoral !important;
+}
+
+.bg-light-purple {
+    background-color: mediumpurple !important;
+}
+
+.bg-light-pink {
+    background-color: lightpink !important;
+}
+
+.bg-light-cyan {
+    background-color: lightcyan !important;
+}
+
+.bg-light-magenta {
+    background-color: lightpink !important;
+}
+
+.bg-light-lavender {
+    background-color: lavenderblush !important;
+}
+
+.bg-light-lime {
+    background-color: limegreen !important;
+}
+
+.bg-light-teal {
+    background-color: paleturquoise !important;
+}
+
+.bg-light-brown {
+    background-color: burlywood !important;
+}
+
+.bg-light-gray {
+    background-color: lightgray !important;
+}
+
+.bg-light-silver {
+    background-color: #D3D3D3 !important;
+}
+
+.bg-light-gold {
+    background-color: lightgoldenrodyellow !important;
+}
+
+.bg-light-violet {
+    background-color: violet !important;
+}
+
+.bg-light-indigo {
+    background-color: mediumslateblue !important;
+}
+
+.bg-light-olive {
+    background-color: olivedrab !important;
+}
+
+.bg-light-maroon {
+    background-color: maroon !important;
+}
+
+.bg-light-navy {
+    background-color: navy !important;
+}
+
+/* ----------------------------------------------------------------------------- */
+
+/* Text Colors */
+.text-red {
+    color: red !important;
+}
+
+.text-blue {
+    color: blue !important;
+}
+
+.text-green {
+    color: green !important;
+}
+
+.text-yellow {
+    color: yellow !important;
+}
+
+.text-orange {
+    color: orange !important;
+}
+
+.text-purple {
+    color: purple !important;
+}
+
+.text-pink {
+    color: pink !important;
+}
+
+.text-cyan {
+    color: cyan !important;
+}
+
+.text-magenta {
+    color: magenta !important;
+}
+
+.text-lavender {
+    color: lavender !important;
+}
+
+.text-lime {
+    color: lime !important;
+}
+
+.text-teal {
+    color: teal !important;
+}
+
+.text-brown {
+    color: brown !important;
+}
+
+.text-gray {
+    color: gray !important;
+}
+
+.text-silver {
+    color: silver !important;
+}
+
+.text-gold {
+    color: gold !important;
+}
+
+.text-violet {
+    color: violet !important;
+}
+
+.text-indigo {
+    color: indigo !important;
+}
+
+.text-olive {
+    color: olive !important;
+}
+
+.text-maroon {
+    color: maroon !important;
+}
+
+.text-navy {
+    color: navy !important;
+}
+
+.text-black {
+    color: black !important;
+}
+
+.text-white {
+    color: white !important;
+}
+
+/* Dark Text Colors */
+.text-dark-red {
+    color: darkred !important;
+}
+
+.text-dark-blue {
+    color: darkblue !important;
+}
+
+.text-dark-green {
+    color: darkgreen !important;
+}
+
+.text-dark-yellow {
+    color: #c0c000 !important;
+}
+
+.text-dark-orange {
+    color: darkorange !important;
+}
+
+.text-darkpurple {
+    color: #800080 !important;
+}
+
+.text-darkpink {
+    color: #FF1493 !important;
+}
+
+.text-dark-cyan {
+    color: darkcyan !important;
+}
+
+.text-dark-magenta {
+    color: darkmagenta !important;
+}
+
+.text-darklavender {
+    color: #9966CC !important;
+}
+
+.text-darklime {
+    color: #32CD32 !important;
+}
+
+.text-darkteal {
+    color: #008080 !important;
+}
+
+.text-darkbrown {
+    color: #8B4513 !important;
+}
+
+.text-dark-gray {
+    color: darkgray !important;
+}
+
+
+
+.text-darksilver {
+    color: #A9A9A9 !important;
+}
+
+.text-dark-gold {
+    color: darkgoldenrod !important;
+}
+
+.text-dark-violet {
+    color: darkviolet !important;
+}
+
+.text-darkindigo {
+    color: #4B0082 !important;
+}
+
+.text-dark-olive {
+    color: darkolivegreen !important;
+}
+
+
+.text-darkmaroon {
+    color: #800000 !important;
+}
+
+.text-darknavy {
+    color: #00008B !important;
+}
+
+.text-dark-black {
+    color: #333 !important;
+}
+
+/* Light Text Colors */
+.text-light-red {
+    color: lightcoral !important;
+}
+
+.text-light-blue {
+    color: lightblue !important;
+}
+
+.text-light-green {
+    color: lightgreen !important;
+}
+
+.text-light-yellow {
+    color: lightyellow !important;
+}
+
+.text-light-orange {
+    color: lightcoral !important;
+}
+
+.text-light-purple {
+    color: mediumpurple !important;
+}
+
+.text-light-pink {
+    color: lightpink !important;
+}
+
+.text-light-cyan {
+    color: lightcyan !important;
+}
+
+.text-light-magenta {
+    color: lightpink !important;
+}
+
+.text-light-lavender {
+    color: lavenderblush !important;
+}
+
+.text-light-lime {
+    color: limegreen !important;
+}
+
+.text-light-teal {
+    color: paleturquoise !important;
+}
+
+.text-light-brown {
+    color: burlywood !important;
+}
+
+.text-light-gray {
+    color: lightgray !important;
+}
+
+.text-lightsilver {
+    color: #D3D3D3 !important;
+}
+
+.text-light-gold {
+    color: lightgoldenrodyellow !important;
+}
+
+.text-light-violet {
+    color: violet !important;
+}
+
+.text-light-indigo {
+    color: mediumslateblue !important;
+}
+
+.text-light-olive {
+    color: olivedrab !important;
+}
+
+.text-light-maroon {
+    color: maroon !important;
+}
+
+.text-light-navy {
+    color: navy !important;
+}
+
+/* ----------------------------------------------------------------------------- */
+
+.btn-outline-darkteal.focus,
+.btn-outline-darkteal:focus {
+    box-shadow: 0 0 0 0.2rem #008080 !important;
+}
+
+.btn-outline-darkteal:hover {
+    color: #fff !important;
+    background-color: #008080 !important;
+    border-color: #008080 !important;
+}
+
+.btn-outline-darkteal {
+    color: #008080 !important;
+    border-color: #008080 !important;
+}
+
+.btn-darkteal {
+    color: #fff !important;
+    border-color: #008080 !important;
+    background-color: #008080 !important;
+}

@@ -1,0 +1,46 @@
+.page-main-holder {
+    background: black;
+    color: whitesmoke;
+    width: 100dvw;
+    height: 100dvh;
+}
+
+/* 
+.flagholder {
+    margin-inline-start: 100px;
+    margin-inline-end: 100px;
+}
+
+.flags {
+    height: 128px;
+    width: 128px;
+    border-radius: 50%;
+}*/
+
+.flags h3 {
+    cursor: pointer;
+}
+
+.round-img-disabled {
+    opacity: 0.1;
+    cursor: not-allowed;
+}
+
+.round-img-border {
+    opacity: 0.5;
+}
+
+.round-img-border:hover {
+    border: 2px solid whitesmoke;
+    border-radius: 50%;
+    opacity: 1;
+}
+
+.round-img-holder {
+    color: #000000;
+}
+
+.round-img-holder:hover {
+    color: whitesmoke;
+    cursor: pointer;
+}
