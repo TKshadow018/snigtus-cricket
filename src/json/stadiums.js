@@ -1,4 +1,4 @@
-let countries =
+let stadiums =
 {
   "Afghanistan": [
     {
@@ -12,6 +12,10 @@ let countries =
         "ODIs": 20,
         "T20Is": 11
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Kandahar International Cricket Stadium",
@@ -24,6 +28,10 @@ let countries =
         "ODIs": 7,
         "T20Is": 4
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Herat International Cricket Stadium",
@@ -36,6 +44,10 @@ let countries =
         "ODIs": 8,
         "T20Is": 5
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Nangarhar International Cricket Stadium",
@@ -48,6 +60,10 @@ let countries =
         "ODIs": 6,
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Balkh Cricket Stadium",
@@ -60,6 +76,10 @@ let countries =
         "ODIs": 5,
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Khost Cricket Stadium",
@@ -71,6 +91,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Paktia Cricket Stadium",
@@ -82,6 +106,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Bamyan Cricket Stadium",
@@ -93,6 +121,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Zabul Cricket Stadium",
@@ -104,6 +136,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Logar Cricket Stadium",
@@ -130,6 +166,10 @@ let countries =
         "ODIs": 169,
         "T20Is": 20
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Sydney Cricket Ground (SCG)",
@@ -143,6 +183,10 @@ let countries =
         "ODIs": 156,
         "T20Is": 21
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "The Gabba",
@@ -156,6 +200,10 @@ let countries =
         "ODIs": 82,
         "T20Is": 12
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Adelaide Oval",
@@ -169,6 +217,10 @@ let countries =
         "ODIs": 91,
         "T20Is": 11
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Perth Stadium",
@@ -182,6 +234,10 @@ let countries =
         "ODIs": 18,
         "T20Is": 6
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Bellerive Oval",
@@ -195,6 +251,10 @@ let countries =
         "ODIs": 33,
         "T20Is": 10
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Manuka Oval",
@@ -207,6 +267,10 @@ let countries =
         "ODIs": 13,
         "T20Is": 8
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Traeger Park",
@@ -219,6 +283,10 @@ let countries =
         "ODIs": 3,
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Junction Oval",
@@ -230,6 +298,10 @@ let countries =
       "matchesHosted": {
         "ODIs": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Sydney Showground Stadium",
@@ -257,6 +329,10 @@ let countries =
         "ODIs": 84,
         "T20Is": 36
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Zahur Ahmed Chowdhury Stadium",
@@ -270,6 +346,10 @@ let countries =
         "ODIs": 46,
         "T20Is": 20
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Sylhet International Cricket Stadium",
@@ -283,6 +363,10 @@ let countries =
         "ODIs": 24,
         "T20Is": 12
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Bangabandhu National Stadium",
@@ -295,6 +379,10 @@ let countries =
         "ODIs": 7,
         "T20Is": 5
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Bangladesh Krira Shikkha Protisthan No 3 Ground",
@@ -306,6 +394,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Cox's Bazar Cricket Stadium",
@@ -318,6 +410,10 @@ let countries =
         "ODIs": 2,
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Bangladesh Krira Shikkha Protisthan Ground",
@@ -329,6 +425,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "M.A. Aziz Stadium",
@@ -340,6 +440,10 @@ let countries =
       "matchesHosted": {
         "ODIs": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Rajshahi Divisional Stadium",
@@ -351,6 +455,10 @@ let countries =
       "matchesHosted": {
         "ODIs": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Khan Shaheb Osman Ali Stadium",
@@ -377,6 +485,10 @@ let countries =
         "ODIs": 12,
         "T20Is": 9
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "King City Cricket Club",
@@ -389,6 +501,10 @@ let countries =
         "ODIs": 9,
         "T20Is": 6
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Maple Leaf Cricket Club",
@@ -401,6 +517,10 @@ let countries =
         "ODIs": 7,
         "T20Is": 5
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Bayview Cricket Club",
@@ -413,6 +533,10 @@ let countries =
         "ODIs": 6,
         "T20Is": 4
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Victoria Park",
@@ -424,6 +548,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Edmonton Cricket Ground",
@@ -435,6 +563,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Winnipeg Cricket Oval",
@@ -446,6 +578,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Montreal Cricket Club",
@@ -457,6 +593,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Calgary Cricket Park",
@@ -468,6 +608,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Ottawa Cricket Club",
@@ -494,6 +638,10 @@ let countries =
         "ODIs": 68,
         "T20Is": 38
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "The Oval",
@@ -507,6 +655,10 @@ let countries =
         "ODIs": 72,
         "T20Is": 32
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Old Trafford Cricket Ground",
@@ -520,6 +672,10 @@ let countries =
         "ODIs": 66,
         "T20Is": 28
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Edgbaston Cricket Ground",
@@ -533,6 +689,10 @@ let countries =
         "ODIs": 63,
         "T20Is": 22
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Headingley",
@@ -546,6 +706,10 @@ let countries =
         "ODIs": 42,
         "T20Is": 23
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Trent Bridge",
@@ -559,6 +723,10 @@ let countries =
         "ODIs": 47,
         "T20Is": 20
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Rose Bowl",
@@ -571,6 +739,10 @@ let countries =
         "ODIs": 31,
         "T20Is": 18
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Bristol County Ground",
@@ -583,6 +755,10 @@ let countries =
         "ODIs": 18,
         "T20Is": 15
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "County Ground, Taunton",
@@ -595,6 +771,10 @@ let countries =
         "ODIs": 17,
         "T20Is": 11
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "County Ground, Hove",
@@ -621,7 +801,10 @@ let countries =
         "Test Matches: 42",
         "ODIs: 30",
         "T20Is: 5"
-      ]
+      ],
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Wankhede Stadium",
@@ -634,7 +817,10 @@ let countries =
         "Test Matches: 25",
         "ODIs: 23",
         "T20Is: 7"
-      ]
+      ],
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "M. Chinnaswamy Stadium",
@@ -647,7 +833,10 @@ let countries =
         "Test Matches: 24",
         "ODIs: 20",
         "T20Is: 7"
-      ]
+      ],
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Rajiv Gandhi International Cricket Stadium",
@@ -660,7 +849,10 @@ let countries =
         "Test Matches: 6",
         "ODIs: 18",
         "T20Is: 7"
-      ]
+      ],
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Sardar Vallabhbhai Patel Stadium",
@@ -673,7 +865,10 @@ let countries =
         "Test Matches: 12",
         "ODIs: 24",
         "T20Is: 10"
-      ]
+      ],
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "MA Chidambaram Stadium",
@@ -686,7 +881,10 @@ let countries =
         "Test Matches: 33",
         "ODIs: 24",
         "T20Is: 10"
-      ]
+      ],
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Holkar Cricket Stadium",
@@ -699,7 +897,10 @@ let countries =
         "Test Matches: 7",
         "ODIs: 16",
         "T20Is: 8"
-      ]
+      ],
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Greenfield International Stadium",
@@ -711,7 +912,10 @@ let countries =
       "matchesHosted": [
         "ODIs: 6",
         "T20Is: 4"
-      ]
+      ],
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Vidarbha Cricket Association Stadium",
@@ -724,7 +928,10 @@ let countries =
         "Test Matches: 8",
         "ODIs: 13",
         "T20Is: 5"
-      ]
+      ],
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "PCA IS Bindra Stadium",
@@ -752,6 +959,10 @@ let countries =
         "ODIs": 20,
         "T20Is": 15
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Stormont Cricket Ground",
@@ -764,6 +975,10 @@ let countries =
         "ODIs": 18,
         "T20Is": 12
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Bready Cricket Club Ground",
@@ -776,6 +991,10 @@ let countries =
         "ODIs": 12,
         "T20Is": 9
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Clontarf Cricket Club Ground",
@@ -788,6 +1007,10 @@ let countries =
         "ODIs": 10,
         "T20Is": 7
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Eglinton Cricket Club Ground",
@@ -800,6 +1023,10 @@ let countries =
         "ODIs": 8,
         "T20Is": 5
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "The Village, Malahide",
@@ -812,6 +1039,10 @@ let countries =
         "ODIs": 6,
         "T20Is": 4
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Pembroke Cricket Club Ground",
@@ -824,6 +1055,10 @@ let countries =
         "ODIs": 4,
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Civil Service Cricket Club Ground",
@@ -836,6 +1071,10 @@ let countries =
         "ODIs": 2,
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Oak Hill Cricket Club Ground",
@@ -848,6 +1087,10 @@ let countries =
         "ODIs": 2,
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Railway Union Cricket Club Ground",
@@ -874,6 +1117,10 @@ let countries =
         "ODIs": 22,
         "T20Is": 14
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Mombasa Sports Club Ground",
@@ -886,6 +1133,10 @@ let countries =
         "ODIs": 16,
         "T20Is": 10
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Ruaraka Sports Club Ground",
@@ -898,6 +1149,10 @@ let countries =
         "ODIs": 12,
         "T20Is": 8
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Eldoret Sports Club Ground",
@@ -910,6 +1165,10 @@ let countries =
         "ODIs": 8,
         "T20Is": 6
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Nairobi Jafferys Sports Club Ground",
@@ -922,6 +1181,10 @@ let countries =
         "ODIs": 6,
         "T20Is": 4
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Kericho Green Stadium",
@@ -934,6 +1197,10 @@ let countries =
         "ODIs": 4,
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Nakuru Athletic Club Ground",
@@ -946,6 +1213,10 @@ let countries =
         "ODIs": 2,
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Kisumu Simba Club Ground",
@@ -958,6 +1229,10 @@ let countries =
         "ODIs": 2,
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Thika Municipal Stadium",
@@ -969,6 +1244,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Kakamega Showground",
@@ -994,6 +1273,10 @@ let countries =
         "ODIs": 18,
         "T20Is": 11
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "United Cricket Club Ground",
@@ -1006,6 +1289,10 @@ let countries =
         "ODIs": 14,
         "T20Is": 9
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Trustco United Sports Ground",
@@ -1018,6 +1305,10 @@ let countries =
         "ODIs": 10,
         "T20Is": 6
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Rehoboth Cricket Club Ground",
@@ -1030,6 +1321,10 @@ let countries =
         "ODIs": 8,
         "T20Is": 5
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Walvis Bay Cricket Ground",
@@ -1042,6 +1337,10 @@ let countries =
         "ODIs": 6,
         "T20Is": 4
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Luderitz Cricket Club Ground",
@@ -1054,6 +1353,10 @@ let countries =
         "ODIs": 4,
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Keetmanshoop Cricket Club Ground",
@@ -1066,6 +1369,10 @@ let countries =
         "ODIs": 2,
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Oshakati Cricket Club Ground",
@@ -1078,6 +1385,10 @@ let countries =
         "ODIs": 1,
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Outjo Cricket Club Ground",
@@ -1089,6 +1400,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Otjiwarongo Cricket Club Ground",
@@ -1113,6 +1428,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 7
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Kirtipur Cricket Ground",
@@ -1124,6 +1443,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Pokhara Rangasala",
@@ -1135,6 +1458,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 5
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "TU Cricket Ground",
@@ -1146,6 +1473,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Fapla Cricket Ground",
@@ -1157,6 +1488,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Dhangadhi Cricket Academy",
@@ -1168,6 +1503,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Tikapur Cricket Ground",
@@ -1179,6 +1518,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Biratnagar Cricket Ground",
@@ -1190,6 +1533,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 4
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Mangalbare Cricket Ground",
@@ -1201,6 +1548,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Birgunj Cricket Ground",
@@ -1226,6 +1577,10 @@ let countries =
         "ODIs": 22,
         "T20Is": 14
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Rotterdam Cricket Club Ground",
@@ -1238,6 +1593,10 @@ let countries =
         "ODIs": 16,
         "T20Is": 10
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "The Hague Cricket Ground",
@@ -1250,6 +1609,10 @@ let countries =
         "ODIs": 12,
         "T20Is": 8
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Utrecht Cricket Club Ground",
@@ -1262,6 +1625,10 @@ let countries =
         "ODIs": 8,
         "T20Is": 6
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Haarlem Cricket Club Ground",
@@ -1274,6 +1641,10 @@ let countries =
         "ODIs": 6,
         "T20Is": 4
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Amstelveen Cricket Club Ground",
@@ -1286,6 +1657,10 @@ let countries =
         "ODIs": 4,
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Delft Cricket Club Ground",
@@ -1298,6 +1673,10 @@ let countries =
         "ODIs": 2,
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Leiden Cricket Club Ground",
@@ -1309,6 +1688,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Eindhoven Cricket Club Ground",
@@ -1320,6 +1703,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Groningen Cricket Club Ground",
@@ -1346,6 +1733,10 @@ let countries =
         "ODIs": 140,
         "T20Is": 38
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Hagley Oval",
@@ -1359,6 +1750,10 @@ let countries =
         "ODIs": 44,
         "T20Is": 17
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Wellington Regional Stadium",
@@ -1372,6 +1767,10 @@ let countries =
         "ODIs": 49,
         "T20Is": 21
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Seddon Park",
@@ -1385,6 +1784,10 @@ let countries =
         "ODIs": 65,
         "T20Is": 19
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Basin Reserve",
@@ -1398,6 +1801,10 @@ let countries =
         "ODIs": 34,
         "T20Is": 12
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Bay Oval",
@@ -1410,6 +1817,10 @@ let countries =
         "ODIs": 14,
         "T20Is": 9
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "McLean Park",
@@ -1422,6 +1833,10 @@ let countries =
         "ODIs": 51,
         "T20Is": 16
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "University Oval",
@@ -1435,6 +1850,10 @@ let countries =
         "ODIs": 24,
         "T20Is": 8
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Cobham Oval",
@@ -1447,6 +1866,10 @@ let countries =
         "ODIs": 9,
         "T20Is": 6
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Pukekura Park",
@@ -1473,6 +1896,10 @@ let countries =
         "ODIs": 10,
         "T20Is": 8
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Al Emarat Cricket Ground",
@@ -1485,6 +1912,10 @@ let countries =
         "ODIs": 8,
         "T20Is": 6
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Oman Cricket Academy Ground",
@@ -1497,6 +1928,10 @@ let countries =
         "ODIs": 6,
         "T20Is": 4
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Muscat Cricket Ground",
@@ -1509,6 +1944,10 @@ let countries =
         "ODIs": 4,
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Sohar Cricket Ground",
@@ -1521,6 +1960,10 @@ let countries =
         "ODIs": 2,
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Salalah Cricket Ground",
@@ -1533,6 +1976,10 @@ let countries =
         "ODIs": 2,
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Nizwa Cricket Ground",
@@ -1544,6 +1991,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Al Buraimi Cricket Ground",
@@ -1555,6 +2006,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Ibri Cricket Ground",
@@ -1566,6 +2021,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Rustaq Cricket Ground",
@@ -1592,6 +2051,10 @@ let countries =
         "ODIs": 75,
         "T20Is": 12
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Gaddafi Stadium",
@@ -1605,6 +2068,10 @@ let countries =
         "ODIs": 96,
         "T20Is": 22
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Rawalpindi Cricket Stadium",
@@ -1618,6 +2085,10 @@ let countries =
         "ODIs": 23,
         "T20Is": 8
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Multan Cricket Stadium",
@@ -1631,6 +2102,10 @@ let countries =
         "ODIs": 27,
         "T20Is": 9
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Arbab Niaz Stadium",
@@ -1644,6 +2119,10 @@ let countries =
         "ODIs": 15,
         "T20Is": 5
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Iqbal Stadium",
@@ -1657,6 +2136,10 @@ let countries =
         "ODIs": 29,
         "T20Is": 8
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Rawalakot Cricket Stadium",
@@ -1668,6 +2151,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Abbottabad Cricket Stadium",
@@ -1679,6 +2166,10 @@ let countries =
       "matchesHosted": {
         "ODIs": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Sukkur Cricket Stadium",
@@ -1690,6 +2181,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Multan Cricket Stadium (New)",
@@ -1715,6 +2210,10 @@ let countries =
         "ODIs": 11,
         "T20Is": 7
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Mannofield Park",
@@ -1727,6 +2226,10 @@ let countries =
         "ODIs": 6,
         "T20Is": 4
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Raeburn Place",
@@ -1739,6 +2242,10 @@ let countries =
         "ODIs": 4,
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "New Williamfield",
@@ -1751,6 +2258,10 @@ let countries =
         "ODIs": 3,
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Cambusdoon New Ground",
@@ -1763,6 +2274,10 @@ let countries =
         "ODIs": 2,
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Glenpark",
@@ -1774,6 +2289,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Arbroath United Cricket Club",
@@ -1785,6 +2304,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Duthie Park",
@@ -1796,6 +2319,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Fort Hill Cricket Club",
@@ -1807,6 +2334,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Hamilton Crescent",
@@ -1833,6 +2364,10 @@ let countries =
         "ODIs": 44,
         "T20Is": 19
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Wanderers Stadium",
@@ -1846,6 +2381,10 @@ let countries =
         "ODIs": 40,
         "T20Is": 20
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Kingsmead Cricket Ground",
@@ -1859,6 +2398,10 @@ let countries =
         "ODIs": 26,
         "T20Is": 14
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "St George's Park",
@@ -1872,6 +2415,10 @@ let countries =
         "ODIs": 35,
         "T20Is": 18
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "SuperSport Park",
@@ -1885,6 +2432,10 @@ let countries =
         "ODIs": 37,
         "T20Is": 18
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Buffalo Park",
@@ -1898,6 +2449,10 @@ let countries =
         "ODIs": 28,
         "T20Is": 10
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Mangaung Oval",
@@ -1911,6 +2466,10 @@ let countries =
         "ODIs": 13,
         "T20Is": 9
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Willowmoore Park",
@@ -1924,6 +2483,10 @@ let countries =
         "ODIs": 11,
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "De Beers Diamond Oval",
@@ -1936,6 +2499,10 @@ let countries =
         "ODIs": 13,
         "T20Is": 6
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Moses Mabhida Stadium",
@@ -1962,6 +2529,10 @@ let countries =
         "ODIs": 136,
         "T20Is": 38
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Pallekele International Cricket Stadium",
@@ -1975,6 +2546,10 @@ let countries =
         "ODIs": 41,
         "T20Is": 27
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Galle International Stadium",
@@ -1988,6 +2563,10 @@ let countries =
         "ODIs": 29,
         "T20Is": 7
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Mahinda Rajapaksa International Cricket Stadium",
@@ -2001,6 +2580,10 @@ let countries =
         "ODIs": 35,
         "T20Is": 26
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Asgiriya Stadium",
@@ -2013,6 +2596,10 @@ let countries =
         "Test Matches": 13,
         "ODIs": 16
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Sinhalese Sports Club Ground",
@@ -2025,6 +2612,10 @@ let countries =
         "Test Matches": 40,
         "ODIs": 32
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Sara Stadium",
@@ -2037,6 +2628,10 @@ let countries =
         "ODIs": 13,
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Rangiri Dambulla International Stadium",
@@ -2049,6 +2644,10 @@ let countries =
         "ODIs": 38,
         "T20Is": 16
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Nondescripts Cricket Club Ground",
@@ -2060,6 +2659,10 @@ let countries =
       "matchesHosted": {
         "ODIs": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Moratuwa Sports Complex",
@@ -2086,6 +2689,10 @@ let countries =
         "ODIs": 64,
         "T20Is": 32
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Dubai International Cricket Stadium",
@@ -2099,6 +2706,10 @@ let countries =
         "ODIs": 79,
         "T20Is": 39
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Sharjah Cricket Stadium",
@@ -2112,6 +2723,10 @@ let countries =
         "ODIs": 236,
         "T20Is": 72
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Zayed Cricket Stadium Nursery 1",
@@ -2123,6 +2738,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 7
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Zayed Cricket Stadium Nursery 2",
@@ -2134,6 +2753,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 5
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "ICC Academy Ground No. 1",
@@ -2145,6 +2768,10 @@ let countries =
       "matchesHosted": {
         "ODIs": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "ICC Academy Ground No. 2",
@@ -2156,6 +2783,10 @@ let countries =
       "matchesHosted": {
         "ODIs": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "ICC Academy Ground No. 3",
@@ -2167,6 +2798,10 @@ let countries =
       "matchesHosted": {
         "ODIs": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "ICC Academy Ground No. 4",
@@ -2178,6 +2813,10 @@ let countries =
       "matchesHosted": {
         "ODIs": 1
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "ICC Academy Ground No. 5",
@@ -2204,6 +2843,10 @@ let countries =
         "ODIs": 102,
         "T20Is": 28
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Queens Sports Club",
@@ -2217,6 +2860,10 @@ let countries =
         "ODIs": 74,
         "T20Is": 22
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Mutare Sports Club",
@@ -2229,6 +2876,10 @@ let countries =
         "ODIs": 18,
         "T20Is": 15
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Kwekwe Sports Club",
@@ -2241,6 +2892,10 @@ let countries =
         "ODIs": 10,
         "T20Is": 8
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Queensmead Stadium",
@@ -2253,6 +2908,10 @@ let countries =
         "ODIs": 8,
         "T20Is": 7
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Old Hararians Sports Club",
@@ -2264,6 +2923,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 5
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Alexandra Sports Club",
@@ -2275,6 +2938,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 4
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Gwanzura Stadium",
@@ -2286,6 +2953,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 3
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "Hartsfield T20 Cricket Ground",
@@ -2297,6 +2968,10 @@ let countries =
       "matchesHosted": {
         "T20Is": 2
       }
+      ,
+      "battingCondition": [9, 7],
+      "betterFor": 1,
+      "outfieldType": 4,
     },
     {
       "name": "ZimCric Academy Ground",
@@ -2311,4 +2986,4 @@ let countries =
     }
   ],
 }
-export { countries };
+export { stadiums };

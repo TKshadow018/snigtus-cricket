@@ -8,8 +8,9 @@ let matchStatusEnum =
     ChooseStadium: 5,
     ChooseCommentator: 6,
     TossTime: 7,
-    TeamOneBat: 8,
-    TeamTwoBat: 9,
-    MatchEnd: 10,
+    TossResult: 8,
+    TeamOneBat: 9,
+    TeamTwoBat: 10,
+    MatchEnd: 11,
 };
 export { matchStatusEnum };

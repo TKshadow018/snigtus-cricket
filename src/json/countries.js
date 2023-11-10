@@ -40,7 +40,7 @@ let countries =
     "id": 7,
     "name": "West Indies",
     "current_ranking": 7,
-    "image": "west_indies_image_url"
+    "image": "./asset/img/icon/flag/west-indies.png"
   },
   "Sri Lanka": {
     "id": 8,

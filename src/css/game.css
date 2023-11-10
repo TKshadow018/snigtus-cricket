@@ -10,12 +10,12 @@
     margin-inline-start: 100px;
     margin-inline-end: 100px;
 }
+*/
 
-.flags {
+.flags img {
     height: 128px;
     width: 128px;
-    border-radius: 50%;
-}*/
+}
 
 .flags h3 {
     cursor: pointer;
@@ -43,4 +43,34 @@
 .round-img-holder:hover {
     color: whitesmoke;
     cursor: pointer;
+    transform: scale(1.05);
+    transition: transform 0.3s;
+}
+
+.stadium-box {
+    width: 300px;
+    height: 300px;
+    opacity: 0.7;
+}
+
+.stadium-box:hover {
+    cursor: pointer;
+    opacity: 1;
+    background-color: yellowgreen;
+    color: black;
+    transform: scale(1.05);
+    transition: transform 0.3s;
+}
+
+.bowler-box {
+    opacity: 0.7;
+}
+
+.bowler-box:hover {
+    cursor: pointer;
+    opacity: 1;
+    background-color: yellowgreen;
+    color: black;
+    transform: scale(1.05);
+    transition: transform 0.3s;
 }
